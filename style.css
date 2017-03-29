@@ -1,0 +1,19 @@
+.container{
+  width: 100%;
+  min-height: 20px;
+  text-align: center;
+}
+.box1{
+  display: inline-block;
+  background-color: blue;
+  width: 400px;
+  height: 100px
+
+}
+img{
+  display: inline-block;
+  /*background-color: blue;*/
+  width: 400px;
+  height: 100px
+
+}
